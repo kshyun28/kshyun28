@@ -42,10 +42,8 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 ## 🏆 My Stats:
 <p>
-    <img height=175 src="https://github-readme-stats.vercel.app/api?username=kshyun28&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only" />&nbsp;&nbsp;
-    <img height=175 src="https://github-readme-stats.vercel.app/api?username=kshyun28&show_icons=true&theme=default#gh-light-mode-only" />&nbsp;&nbsp;
-    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshyun28&layout=compact&theme=dark#gh-dark-mode-only" />&nbsp;&nbsp;
-    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshyun28&layout=compact&theme=default#gh-light-mode-only" />&nbsp;&nbsp;
+    <img height=175 src="https://github-readme-stats.vercel.app/api?username=kshyun28&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshyun28&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
 ## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
