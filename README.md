@@ -17,6 +17,14 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 <div align="center">
 
+## 💡 A Random Quote:
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<div align="center">
+
+</div>
+
 ## 💻 My Tech Stack:
 
 [![My Tech Stack](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
