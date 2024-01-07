@@ -17,13 +17,9 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 <div align="center">
 
-## 💡 A Random Quote:
+## 💡 A Quote:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<div align="center">
-
-</div>
 
 ## 💻 My Tech Stack:
 
